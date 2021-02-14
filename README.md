@@ -1,7 +1,7 @@
 Jenkins
 =======
 
-Role For Install and Configure Jenkins.
+Ansible Role For Install and Configure Jenkins.
 
 Requirements
 ------------

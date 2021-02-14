@@ -37,7 +37,7 @@ mail_conf.yml is a vault or variable file should include all the variables speci
       vars_files:
         - vault/mail_conf.yml
       roles:
-        - username.jenkins
+        - jhagdu.jenkins
 
 License
 -------
